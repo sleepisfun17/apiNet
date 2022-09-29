@@ -1,0 +1,15 @@
+CREATE TABLE Users(
+	pk_user_id INT IDENTITY PRIMARY KEY,
+	[name] VARCHAR(MAX)
+)
+
+INSERT INTO Users([name])
+VALUES('M Irfan Fanani'), ('Priyanala Luthan')
+
+SELECT * FROM Users
+
+CREATE TABLE Tasks(
+	pk_task_id INT IDENTITY PRIMARY KEY,
+	task_detail VARCHAR(MAX),
+	fk_user_id INT
+)
