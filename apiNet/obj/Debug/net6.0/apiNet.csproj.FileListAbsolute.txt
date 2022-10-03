@@ -31,3 +31,10 @@ E:\Project\coding.id\apiNet\apiNet\obj\Debug\net6.0\refint\apiNet.dll
 E:\Project\coding.id\apiNet\apiNet\obj\Debug\net6.0\apiNet.pdb
 E:\Project\coding.id\apiNet\apiNet\obj\Debug\net6.0\apiNet.genruntimeconfig.cache
 E:\Project\coding.id\apiNet\apiNet\obj\Debug\net6.0\ref\apiNet.dll
+E:\Project\coding.id\apiNet\apiNet\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\coding.id\apiNet\apiNet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\coding.id\apiNet\apiNet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\coding.id\apiNet\apiNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\coding.id\apiNet\apiNet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\coding.id\apiNet\apiNet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\coding.id\apiNet\apiNet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
